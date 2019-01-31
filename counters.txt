@@ -1,0 +1,4 @@
+\Processor(_Total)\% Processor Time
+\Memory\Available Bytes
+\LogicalDisk\% Idle Time
+\Network Interface(*)\Bytes Total/sec
